@@ -13,6 +13,7 @@ CourseCareers IT Courses: Explore various IT courses to deepen your understandin
 Link: https://coursecareers.com/purchase/it
 
 
+
 ROADMAP
 ![IT Support Technician-roadmap-Darey](https://github.com/user-attachments/assets/782e1cb5-2f26-4237-89cd-e331ac0a8704)
 
@@ -29,6 +30,11 @@ DevOps Learning Path
 
 GitHub - DanDarey Learning-DevOps-Guide-for-beginners: This resource is a comprehensive guide for beginners interested in DevOps. 
 Link: https://github.com/DanDarey/Learning-Devops-Guide-for-beginners
+
+
+Google Clouds Skills Boost - The learning path provides an in-depth understanding of foundational and technical areas in DevOps. Includes courses, labs, and skill badges that provide real-world, hands-on experience using Google Cloud technologies
+Link:  https://www.cloudskillsboost.google/paths/20
+
 
 
 ROADMAP 
